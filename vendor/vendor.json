@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "L3leymg2RT8hFl5uL+5KP/LpBkg=",
+			"path": "github.com/mitchellh/go-wordwrap",
+			"revision": "ad45545899c7b13c020ea92b2072220eefad42b8",
+			"revisionTime": "2015-03-14T17:03:34Z"
+		},
+		{
+			"checksumSHA1": "ncKeZLxxhAD4uRpGgpyY0nvOxBE=",
+			"path": "github.com/palantir/go-palantir/cli",
+			"revision": "ddd132ec72d4d4e0b4d64e7b7b7872fadd723000",
+			"revisionTime": "2016-10-25T02:12:01Z"
+		},
+		{
+			"checksumSHA1": "nbidgk8LvSN3c+nZZ0Vn3W68dfI=",
+			"path": "github.com/palantir/go-palantir/cli/flag",
+			"revision": "ddd132ec72d4d4e0b4d64e7b7b7872fadd723000",
+			"revisionTime": "2016-10-25T02:12:01Z"
+		},
+		{
+			"checksumSHA1": "bSPyzqKdK0cTlV4U8nH7oe6P+Gk=",
+			"path": "github.com/palantir/stacktrace",
+			"revision": "78658fd2d1772b755720ed8c44367d11ee5380d6",
+			"revisionTime": "2016-10-22T16:26:52Z"
+		},
+		{
+			"checksumSHA1": "9C4Av3ypK5pi173F76ogJT/d8x4=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "3f77d695175f990a2967385c493939f380ee40a3",
+			"revisionTime": "2016-12-06T19:42:06Z"
+		}
+	],
+	"rootPath": "github.com/Playground/PermTester"
+}
